@@ -23,6 +23,7 @@ function App() {
               </button>
             </div>
           </div>
+          
           <div className="aboutus_main">
             <AboutUs />
           </div>
